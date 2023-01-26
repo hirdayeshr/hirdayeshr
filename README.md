@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hirdayeshr
-- 👀 I’m interested in  Data science
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in  Data Scientist
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me  Linkedin
 
 <!---
 hirdayeshr/hirdayeshr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
