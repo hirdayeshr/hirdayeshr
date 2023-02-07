@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  Linkedin
+- 📫 How to reach me Kaggle
 
 <!---
 hirdayeshr/hirdayeshr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
