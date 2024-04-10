@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hirdayeshr
-- 👀 I’m interested in  Data Scientist
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in  Data Scientist / Data Engineer
+- 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  Linkedin
 - 📫 How to reach me Kaggle
