@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hirdayeshr
 - 👀 I’m interested in Machine Learning/Data Engineering
-- 🌱 I’m currently learning pyspark and golang...
+- 🌱 I’m currently learning Pyspark and GOlang...
    
 - 💞️ I’m looking to collaborate on Machine learning
 - 📫 How to reach me  Linkedin
